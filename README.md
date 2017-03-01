@@ -22,7 +22,7 @@ pod "LoadingButton"
 
 ## Author
 
-julp04, Nicholas1
+julp04
 
 ## License
 

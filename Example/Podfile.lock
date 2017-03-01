@@ -1,0 +1,16 @@
+PODS:
+  - LoadingButton (0.1.0)
+
+DEPENDENCIES:
+  - LoadingButton (from `../`)
+
+EXTERNAL SOURCES:
+  LoadingButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LoadingButton: 01e2485956ef56a626df47cbcc182d5813aaea57
+
+PODFILE CHECKSUM: 3f4e97517f112a3491b428ff816193e8dee45ca3
+
+COCOAPODS: 1.2.0

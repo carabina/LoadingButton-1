@@ -1,0 +1,22 @@
+{
+  "name": "LoadingButton",
+  "version": "0.1.0",
+  "summary": "A short description of LoadingButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/julp04/LoadingButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "julp04": "Nicholas1"
+  },
+  "source": {
+    "git": "https://github.com/julp04/LoadingButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoadingButton/Classes/**/*"
+}
