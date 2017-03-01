@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		07FF9FAA850D88BE3FAA1D3C /* LoadingButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LoadingButton.podspec; path = ../LoadingButton.podspec; sourceTree = "<group>"; };
+		07FF9FAA850D88BE3FAA1D3C /* LoadingButtonPanucci.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LoadingButtonPanucci.podspec; path = ../LoadingButtonPanucci.podspec; sourceTree = "<group>"; };
 		291B79B7200BE5AAAC3A4BDC /* Pods_LoadingButton_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoadingButton_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		50B0CA2239FECB417953F284 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		50B0CA2239FECB417953F284 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* LoadingButton_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoadingButton_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 		607FACE51AFB9204008FA782 /* LoadingButton_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoadingButton_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		95A584EDD3F2882029FEECE6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		95A584EDD3F2882029FEECE6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		99878152D73493BEE14C2FAF /* Pods-LoadingButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoadingButton_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LoadingButton_Tests/Pods-LoadingButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A78211690598B7C9FE07B175 /* Pods_LoadingButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoadingButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30A6348A14CF319AACC5E16 /* Pods-LoadingButton_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoadingButton_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LoadingButton_Example/Pods-LoadingButton_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -141,7 +141,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				07FF9FAA850D88BE3FAA1D3C /* LoadingButton.podspec */,
+				07FF9FAA850D88BE3FAA1D3C /* LoadingButtonPanucci.podspec */,
 				50B0CA2239FECB417953F284 /* README.md */,
 				95A584EDD3F2882029FEECE6 /* LICENSE */,
 			);

@@ -20,4 +20,6 @@ extension Timer {
         CFRunLoopAddTimer(CFRunLoopGetCurrent(), timer, .commonModes)
         return timer
     }
+    
+    //New Version
 }
